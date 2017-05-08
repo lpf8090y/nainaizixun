@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 导航条颜色 -->
+    <color name="daohangtiao">#f3f3f3</color>
+    <!-- 主题颜色 -->
+    <color name="themecolor">#c81623</color>
+    <!-- 灰色字体颜色 -->
+    <color name="graytext">#858585</color>
+    <!-- 8个按钮下面字体颜色 -->
+    <color name="eightbtntext">#2e2e2e</color>
+    <!-- 速购背景颜色 -->
+    <color name="sugoutucolor">#f6f6f6</color>
+</resources>
